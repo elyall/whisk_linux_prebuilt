@@ -1,5 +1,5 @@
 # whisk
-Copy of nclack's whisk1.1.0 pre-built binaries for linux. Easier than compiling from source, and download links on Janelia's page are broken.
+Copy of nclack's whisk1.1.0 pre-built binaries for linux. Easier than compiling from source, download links on Janelia's page are broken, and made a couple minor fixes to address how the python module "whisk" is handled, as recommended by cxrodgers.
 
 ## Installation
 
