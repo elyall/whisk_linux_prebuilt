@@ -5,8 +5,9 @@ Copy of nclack's whisk1.1.0 pre-built binaries for linux. Easier than compiling 
 
 First clone the repository: change to the directory you want to place the repo (i.e. LOCATION) and clone it:
 
-`cd LOCATION
-git clone git@github.com:elyall/whisk.git`
+`cd LOCATION`
+
+`git clone git@github.com:elyall/whisk.git`
 
 Add the binaries to your $PATH variable by adding the following line to your ~/.bashrc:
  
